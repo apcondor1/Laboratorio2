@@ -6,8 +6,6 @@ LABORATORIO #1
   
    •	Condor Vasconez Ariel Patricio
 
-   •    Collaguazo Ushiña Alejandro Daniel
-
    •    Toapanta Tipantuña Victor Hugo 
 
   NRC:10066 - 10063
